@@ -1,6 +1,9 @@
 # BODIPYs
 The GA-MLR method for the BODIPY dyes
 
+The webserver with the horizontal and vertical consutructed QSPR models: chemdata.shu.edu.cn/b. The website would be updated in the later months. The website might not be accessible at some times because of the IP access restrictions. 
+
+
 I'm supposing that you have read my paper about BODIPY dyes for DSSCs (Not published untill 2018.11.21.). So, the details about how to use it is listed as below and you could also be familiar with it in the supporting information of my paper.
 
 
